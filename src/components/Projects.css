@@ -1,0 +1,23 @@
+/* src/components/Projects.css */
+.projects-container {
+  background-color: #fff4e6;
+  padding: 40px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.projects-container h2 {
+  font-size: 28px;
+  color: #333;
+}
+
+.projects-container ul {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+  color: #444;
+}
+
+.projects-container li {
+  margin: 10px 0;
+}

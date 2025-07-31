@@ -1,0 +1,19 @@
+.resume-section {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.download-btn {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #0056b3;
+}

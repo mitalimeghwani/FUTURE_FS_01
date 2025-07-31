@@ -1,0 +1,18 @@
+/* src/components/About.css */
+.about-container {
+  background-color: #eaf4fc;
+  padding: 40px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.about-container h2 {
+  font-size: 28px;
+  color: #222;
+}
+
+.about-container p {
+  font-size: 18px;
+  color: #444;
+  margin-top: 10px;
+}
